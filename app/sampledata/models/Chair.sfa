@@ -41,7 +41,7 @@
   },
   samplers: [
     {
-      file: 'sampledata/models\\Chair_BaseColor.png',
+      file: 'sampledata/models/Chair_BaseColor.png',
       name: 'Chair_BaseColor',
       pipeline_name: 'Chair_BaseColor.png',
     },
